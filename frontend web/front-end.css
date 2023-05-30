@@ -445,7 +445,8 @@ top:15px ;
   }
   
   .menu-bar ul li {
-      width: 150px;
+    border-radius: 10px;
+      width: 180px;
       margin: 10px;
       padding: 6px;
   
@@ -454,14 +455,14 @@ top:15px ;
   
   .active,
   .menu-bar ul li:hover {
-      background: #d35342c6;
+      background: #ffbb003c;
      
    
   }
   
   .sub-menu-1 {
       display: none;
-    
+    border-radius: 10px;
   }
   
   .menu-bar ul li:hover .sub-menu-1 {
