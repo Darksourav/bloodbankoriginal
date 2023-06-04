@@ -49,8 +49,8 @@ body {
   } */
   
   h1 {
-    font-size: 29px;
-    margin-bottom: 100px;
+    font-size: 31px;
+    margin-bottom: 107px;
   }
   
   form input[type="text"],
@@ -116,24 +116,24 @@ body {
   .vertical-menu{
     
     position: absolute;
-    top: 28%;
+    top: 26%;
     transform: translate(-50%, -50%);
-    padding: 8px;
+    padding: 6px;
     background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 4px;
+    border-radius: 10px;
     text-align: center;
     display: inline-flexbox;
     margin-bottom: 19px;
-    width:63%; 
-    margin-left: 175px;
+    width:60%; 
+    margin-left: 215px;
     
     
   }
   .drop{
     display: inline-block;
-    padding: 8px;
-    margin-left: 5px;
-    width:100%; 
+    padding: 6px;
+    margin-left: 6px;
+    width:70%; 
     border-radius: 4px solid black;
   }
   
