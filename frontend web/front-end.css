@@ -456,6 +456,14 @@ top:15px ;
   .active,
   .menu-bar ul li:hover {
       background: #ffbb003c;
+     text-decoration: underline;
+     
+   
+  }
+  .active,
+  .menu-bar ul li:hover {
+      background: #ffbb003c;
+     text-decoration: underline;
      
    
   }
