@@ -7,11 +7,11 @@
     }
 
     .container {
-      max-width: 352px;
+      max-width: 559px;
       margin: 0 auto;
       padding: 16px;
-      background-color: rgba(255, 255, 255, 0.8);
-      border-radius: 5px;
+      background-color: rgba(255, 255, 255, 17%);
+      border-radius: 30px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     }
 

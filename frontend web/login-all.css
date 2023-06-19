@@ -113,7 +113,7 @@ body {
     color: aqua;
   } */
 
-  .vertical-menu{
+  /* .vertical-menu{
     
     position: absolute;
     top: 26%;
@@ -128,7 +128,22 @@ body {
     margin-left: 215px;
     
     
-  }
+  } */
+  .vertical-menu{
+    position: absolute;
+    top: 26%;
+    transform: translate(-50%, -50%);
+  
+    padding: 5px;
+  
+    border-radius: 10px;
+    text-align: center;
+    display: inline-flexbox;
+    margin-bottom: 19px;
+    width: 60%;
+    margin-left: 207px;
+}
+  
   .drop{
     display: inline-block;
     padding: 6px;
